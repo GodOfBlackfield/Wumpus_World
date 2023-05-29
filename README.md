@@ -1,1 +1,1 @@
-# Infinity-Game
+# Wumpus-World
